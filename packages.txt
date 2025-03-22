@@ -1,0 +1,6 @@
+libgl1-mesa-glx
+tesseract-ocr
+tesseract-ocr-hin
+tesseract-ocr-ben
+tesseract-ocr-tam
+tesseract-ocr-tel
